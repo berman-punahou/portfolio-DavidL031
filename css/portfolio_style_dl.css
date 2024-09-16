@@ -1,0 +1,42 @@
+
+body {
+	background-color: #00009e;
+}
+
+/* Class Selectors */
+
+.body_color {
+	background-color: #000080;
+
+}
+
+.body_text {
+	color: #f0f8ff;
+}
+
+
+/* ID Selectors */
+
+#projects {
+	font-family: "Tomorrow", sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	color: springgreen;
+}
+
+#about_me{
+	font-family: "Arvo", serif;
+	font-weight: 400;
+	font-style: normal;
+	color: gold;
+
+}
+
+#info{}
+
+#family{}
+
+#other{}
+
+#recursive{}
+

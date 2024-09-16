@@ -1,0 +1,64 @@
+/* General Styles */
+
+body {
+    background-color: #d5d5ff;
+    margin: 0;
+    padding: 0;
+}
+
+/* Element Selector: Styling the main heading (h1) */
+title {
+    background-color: #2274a5;
+}
+
+h1 {
+    background-color: steelblue;
+}
+
+p {
+    background-color: dodgerblue;
+    color: skyblue;
+}
+
+ul{
+    background-color: royalblue;
+    color: #ffd166;
+}
+
+
+
+
+
+/* Class selectors */
+
+ .highlight {
+    background-color: lightyellow;
+}
+
+ .story {
+    background-color: #ffdead;
+    color: #00003d;
+}
+
+
+/* ID Selectors */
+
+ #light-text {
+    color: azure;
+}
+
+
+ #gamer {
+    background-color: black;
+    color: #00ff00;
+    font-family: "Jersey 10", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+ #emphasis {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+}
+
